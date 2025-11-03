@@ -22,3 +22,5 @@ jobs:
         with:
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/flask-cicd-demo:latest
+
+          
